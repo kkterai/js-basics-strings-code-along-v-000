@@ -1,3 +1,3 @@
 const currentUser = "Learner";
 
-let we
+const welcomeMessage = "Welcome to Flatbook, "
